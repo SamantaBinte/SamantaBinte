@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamantaBinte
+- 👋 Hi, I’m Samanta, a undergrad Computer Science major.
 - 👀 I’m interested in Machine Learning and Automation.
 - 🌱 I’m currently learning 'Introduction to Machine Learning' at Udemy and 'Data Analysis with Python' at freecodecamp.
 - 📫 Email: samantataher06@gmail.com
