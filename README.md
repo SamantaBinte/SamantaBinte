@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Samanta, a undergrad Computer Science major.
-- 👀 I’m interested in Machine Learning and Automation.
-- 🌱 I’m currently learning 'Introduction to Machine Learning' at Udemy and 'Data Analysis with Python' at freecodecamp.
+- 👋 Hi, I’m Samanta, an undergrad Computer Science and Engineering major.
+- 👀 I’m interested in Natural Language Processing, Machine Learning, and Automation.
+- 🌱 I’m currently learning 'Practical Natural Language Processing: Zero to Hero' at Udemy.
 - 📫 Email: samantataher06@gmail.com
 
 <!---
